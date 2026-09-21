@@ -1,4 +1,4 @@
-# Hello World
+# cudduck
 
 A small, responsive sample app with an interactive greeting and a health endpoint. No dependencies required.
 
